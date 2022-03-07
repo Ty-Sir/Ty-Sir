@@ -7,6 +7,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ty-Sir" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ty-Sir&layout=compact" />
-  </a>
+<br/>
+
+## Hosted Projects 🌐
+
+[Avax Monkeys](https://avaxmonkeys.xyz) <br/>
+[Yurd!™](https://playyurd.com) <br/>
