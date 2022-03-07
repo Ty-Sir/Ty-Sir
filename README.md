@@ -1,4 +1,4 @@
-### Hello 👋
+# Hello 👋
 - 🔭 I’m currently working on a node.js script to retrieve and rank an ERC-721 colleciton by trait rarity.
 - 💬 Ask me about smart contracts written in Solidity.
 - 📫 How to reach me: tysirdev@protonmail.com
