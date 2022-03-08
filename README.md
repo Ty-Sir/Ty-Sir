@@ -11,5 +11,6 @@
 
 ## Hosted Projects 🌐
 
-[Avax Monkeys](https://avaxmonkeys.xyz) <br/>
-[Yurd!™](https://playyurd.com) <br/>
+[Avax Monkeys](https://avaxmonkeys.xyz) - Avalanche NFT project that includes minting, rarity display, user activity feed, and built-in ERC-721 agnostic marketplace. <br/>
+[Yurd!™](https://playyurd.com) - Yurd!™ is a dice game of luck and skill on Polygon where the highest score earned after 10 completed games wins a jackpot of MATIC. <br/>
+[Cookie The Dog](https://cookiethedog.io) - Cookie The Dog is a commissioned NFT project on Polygon the owner sadly abandoned 😢.
