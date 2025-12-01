@@ -1,3 +1,3 @@
 # Hello 👋
-- 👨‍💻 Engineering Lead at Solidityio
-- 📫 How to reach me: tylersiravo@gmail.com
+- 👨‍💻 Engineering at SushiSwap
+- 📫 How to reach me: tyler@sushi.com
